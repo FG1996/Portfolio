@@ -1,6 +1,6 @@
 # Portfolio
 
-  #3-C++ (also includes files: :
+  #3-C++ (also includes files: "List.cpp" and "List.h":
   
 Solution to the following problem:
 
